@@ -37,8 +37,44 @@ margin-left: 20 px;
 font-weight: normal;
 }
 #menuconteudo{
-    background-color: #ffffff
-    display: grid;
+    background-color:aqua
+    display:grid;
     grid-auto-flow:column;
     column:auto;
+}
+#imagens{
+    margin: 100px 25px 100px 100px;
+}
+#textoconteudo{
+    text-align: justify;
+    font-size: 40px;
+    font-weight: bolder;
+    margin:2260px 25px 50px 100px;
+
+}
+#image, #textocnteudo, #formulario{
+    visibility:hidden;
+}
+#spanconteudo{
+    text-align: justify;
+    font-size: 24px;
+    font-weight: normal;
+}
+#formulario{
+    background-color: aliceblue;
+    text-align: center;
+}
+#tituloformulario{
+    font-size: 32px;
+    padding: 70px 70px 20px 70px;
+    color: brown;
+}
+input{
+    width: 400px;
+    height: 60px;
+    background-color: cornflowerblue;
+    margin: 25px;
+    border: 25px;
+    border-radius: 10px;
+    padding-left: 10px;
 }
