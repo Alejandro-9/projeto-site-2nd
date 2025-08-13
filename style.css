@@ -78,3 +78,16 @@ input{
     border-radius: 10px;
     padding-left: 10px;
 }
+buton{
+    beckgraoundcolor:#c07212;
+    height: 70px;
+    width: 220px;
+    color: #eaece5;
+    border: 0px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    font-weight: bolder;
+    font-size: 30px;
+    cursor:pointer;
+}
